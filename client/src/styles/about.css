@@ -175,6 +175,13 @@
     margin-top: 400px;
 }
 
+@media screen and (max-width: 940px) {
+    .staff-cards {
+        margin-bottom: 400px;
+    }   
+}
+
+
 #staff-rows {
     margin-top: 400px;
 }
