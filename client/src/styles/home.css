@@ -443,7 +443,7 @@ blockquote::after {
     }
 }
 
-
+/* 
 .box {
     width: 100%;
     text-align: left;
@@ -473,4 +473,4 @@ blockquote::after {
 .box.active{
     transform: translateX(0);
     opacity: 1;
-}
+} */
