@@ -18,7 +18,7 @@ const Footer = () => {
                                 <br/>
                                 <div className='footer-left-second-info'>
                                     <p>Hours: Monday - Thursday</p>
-                                    <p>11:00 PM to 6:00 PM</p>
+                                    <p>11:00 AM to 6:00 PM</p>
                                 </div>
                             </div>
                             <div className="footer-col" id='footer-left'>

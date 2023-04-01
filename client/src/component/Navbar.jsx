@@ -102,7 +102,6 @@ const Navbar = () => {
               <div className="dropdown-content">
                 <a href='https://secure.givelively.org/donate/midtown-utica-community-center?ref=ca8545b3-a601-4faf-bbec-1fd561eee2e3'>Donate</a>
                 <a href='https://www.amazon.com/hz/wishlist/ls/3G7OX2OLWQ572/ref=hz_ls_biz_ex'>Amazon Wishlist</a>
-                <a href='/'>Volunteer</a>
               </div>
             </div>
           </div>

@@ -59,7 +59,7 @@ const Staff = () => {
                             <div>
                             <div id='staff-card' className="card">
                                 <div className="staff-img-body">
-                                    <img src="assets/kayklo.png" className="staff-img"/>
+                                    <img src="assets/kaycap.jpeg" className="staff-img"/>
                                 </div>
                                 <p > <br/>  </p>
                                 <p className="staff-name"> Kay Klo  </p>
@@ -96,7 +96,7 @@ const Staff = () => {
                     <div className='staff-cards'>
                             <div id='staff-card' className="card">
                                 <div className="staff-img-body">
-                                    <img src="assets/staff-placeholder.png" className="staff-img"/>
+                                    <img src="assets/reneecap.jpeg" className="staff-img"/>
                                 </div>
                                 <p > <br/>  </p>
                                 <p className="staff-name"> Renee Wah  </p>
@@ -104,8 +104,19 @@ const Staff = () => {
                                 <p className="staff-title"> Assistant Director  </p>
                                 <div className='staff-bio-body'>
                                     <p className="staff-bio"> 
-                                        Provides high level administrative support and assistance 
-                                        to the director and other staff members.
+                                        Renee Wah is the Assistant Director at the Midtown Utica Community 
+                                        Center. Her educational background includes an AAS in Accounting 
+                                        from Mohawk Valley Community College and a BS and MSW in Social 
+                                        Work from Keuka College. Renee has previously worked at local 
+                                        non-profits before joining MUCC.
+                                    </p>
+                                    <p className='staff-bio'>
+                                        Renee/s role at MUCC includes providing high level administrative 
+                                        support and assistance to the director and other staff members. 
+                                        She assists the director in strategic planning and helps 
+                                        supervise in daily operations. In her free time, Renee enjoys 
+                                        spending time with family and friends, traveling, and watching 
+                                        k-dramas.
                                     </p>
                                 </div>
                             </div>
@@ -115,17 +126,21 @@ const Staff = () => {
                     <div className='staff-cards'>
                             <div id='staff-card' className="card">
                                 <div className="staff-img-body">
-                                    <img src="assets/staff-placeholder.png" className="staff-img"/>
+                                    <img src="assets/hawacap.jpeg" className="staff-img"/>
                                 </div>
                                 <p > <br/>  </p>
                                 <p className="staff-name"> Hawa Juma  </p>
                                 <p className="staff-email"> <a href='mailto:hawa@midtownutica.org'>hawa@midtownutica.org</a></p>
-                                <p className="staff-title"> Community Outreach Coordinator </p>
+                                <p className="staff-title"> Director of Community Engagement </p>
                                 <div className='staff-bio-body'>
                                     <p className="staff-bio"> 
-                                        Hawa collaborates with other groups and organizations to 
-                                        coordinate MUCC events. Also networks with other communities 
-                                        to get involved with programs.
+                                        Hawa Juma is the Director of Community Engagement at the Midtown. 
+                                        Utica Community Center. She collaborates with other groups and 
+                                        organizations to coordinate MUCC events. 
+                                    </p>
+                                    <p className='staff-bio'>
+                                        As a leader in Utica's Somali Bantu population, Hawa also networks
+                                        with this community to get involved with programs.
                                     </p>
                                 </div>                           
                              </div>
@@ -133,17 +148,26 @@ const Staff = () => {
                 </div>
             </div>
                 <div id='second-staff-row' className='container row'>
-                    <div className='col-lg-4'>
+                <div className='col-lg-4'>
                         <div className='staff-cards'>
                                 <div id='staff-card' className="card">
                                     <div className="staff-img-body">
-                                        <img src="assets/staff-placeholder.png" className="staff-img"/>
+                                        <img src="assets/puspacap.png" className="staff-img"/>
                                     </div>
                                     <p > <br/>  </p>
-                                    <p className="staff-name"> Anna Woodworth  </p>
-                                    <p className="staff-email"> <a href='mailto:anna@midtownutica.org'>anna@midtownutica.org</a></p>                                    <p className="staff-title"> TITLE  </p>
+                                    <p className="staff-name"> Puspa Darji </p>
+                                    <p className="staff-email"> <a></a></p>
+                                    <p className="staff-title"> Driver  </p>
                                     <div className='staff-bio-body'>
-                                        <p className="staff-bio"> BIO  </p>
+                                        <p className="staff-bio"> 
+                                            Puspa Darji is responsible for transporting community members 
+                                            safely back and forth from programs. Puspa has many years of 
+                                            experience driving in the United States.
+                                        </p>
+                                        <p className='staff-bio'>
+                                            He was born in Bhutan and lived in a refugee camp in Nepal 
+                                            for almost twenty years. He is married and has two children.  
+                                        </p>
                                     </div>
                                 </div>
                         </div>
@@ -152,14 +176,29 @@ const Staff = () => {
                         <div className='staff-cards'>
                                 <div id='staff-card' className="card">
                                     <div className="staff-img-body">
-                                        <img src="assets/staff-placeholder.png" className="staff-img"/>
+                                        <img src="assets/sarahcap.png" className="staff-img"/>
                                     </div>
                                     <p > <br/>  </p>
                                     <p className="staff-name"> Sarah Morehouse  </p>
                                     <p className="staff-email"> <a href='mailto:sara@midtownutica.org'>sara@midtownutica.org</a></p>
                                     <p className="staff-title"> TITLE  </p>
                                     <div className='staff-bio-body'>
-                                        <p className="staff-bio"> BIO  </p>
+                                        <p className="staff-bio">   
+                                            Sarah Morehouse is the Director of Programs at the Midtown 
+                                            Utica Community Center. As Director of Programs, Sarah 
+                                            oversees the operation of programs at MUCC including the 
+                                            design, implementation, monitoring and evaluation, budget, 
+                                            grant compliance, and youth protection.  Sarah is originally 
+                                            from Utica, New York but has spent years working overseas in 
+                                            international development and humanitarian response.
+                                        </p>
+                                        <p className='staff-bio'>
+                                            Sarah received a Bachelor's in Behavioral Psychology and 
+                                            International Relations from Salve Regina University and a 
+                                            Master's in International Law and Diplomacy from Tufts 
+                                            University. Sarah speaks Thai, loves to run, and knows 
+                                            everything and anything about hiking in the Adirondacks.
+                                        </p>
                                     </div>
                                 </div>
                         </div>
@@ -168,7 +207,7 @@ const Staff = () => {
                         <div className='staff-cards'>
                                 <div id='staff-card' className="card">
                                     <div className="staff-img-body">
-                                        <img src="assets/staff-placeholder.png" className="staff-img"/>
+                                        <img src="assets/nurallahcap.png" className="staff-img"/>
                                     </div>
                                     <p > <br/>  </p>
                                     <p className="staff-name"> Nurallah Alawsaj  </p>
@@ -243,31 +282,17 @@ const Staff = () => {
                                         <img src="assets/staff-placeholder.png" className="staff-img"/>
                                     </div>
                                     <p > <br/>  </p>
-                                    <p className="staff-name"> Gino ? </p>
-                                    <p className="staff-email"> <a href='mailto:consultgino@gmail.com'>consultgino@gmail.com</a></p>
-                                    <p className="staff-title"> Building Manager  </p>
+                                    <p className="staff-name"> Anna Woodworth  </p>
+                                    <p className="staff-email"> <a href='mailto:anna@midtownutica.org'>anna@midtownutica.org</a></p>
+                                    <p className="staff-title"> Grants Manager  </p>
                                     <div className='staff-bio-body'>
-                                        <p className="staff-bio"> BIO  </p>
+                                        <p className="staff-bio"> 
+                                        </p>
                                     </div>
                                 </div>
                         </div>
                     </div>
-                    <div className='col-lg-4'>
-                        <div className='staff-cards'>
-                                <div id='staff-card' className="card">
-                                    <div className="staff-img-body">
-                                        <img src="assets/staff-placeholder.png" className="staff-img"/>
-                                    </div>
-                                    <p > <br/>  </p>
-                                    <p className="staff-name"> Name  </p>
-                                    <p className="staff-email"> EMAIL  </p>
-                                    <p className="staff-title"> TITLE  </p>
-                                    <div className='staff-bio-body'>
-                                        <p className="staff-bio"> BIO  </p>
-                                    </div>
-                                </div>
-                        </div>
-                    </div>
+                    
                 </div>
             
             
