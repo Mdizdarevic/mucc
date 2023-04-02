@@ -59,25 +59,25 @@ const Supporters = () => {
             the people and organizations
         </p>
         <div className='support-links'>
-            <div class="scroll-reveal box left"><li>American Red Cross</li></div>
-            <div class="scroll-reveal box left"><li>Annie's Fund</li></div>
-            <div class="scroll-reveal box left"><li>Church of Our Lady of Lourdes</li></div>
-            <div class="scroll-reveal box left"><li>CNY Arts</li></div>
-            <div class="scroll-reveal box left"><li>Community Foundation of Herkimer and Oneida Counties</li></div>
-            <div class="scroll-reveal box left"><li>Daniel Barden Mudfest</li></div>
-            <div class="scroll-reveal box left"><li>Fort Stanwix National Monument</li></div>
-            <div class="scroll-reveal box left"><li>Fr. Joe Salerno</li></div>
-            <div class="scroll-reveal box left"><li>Jennifer Arlin</li></div>
-            <div class="scroll-reveal box left"><li>John Ben Snow Foundation</li></div>
-            <div class="scroll-reveal box left"><li>Judy Olney</li></div>
-            <div class="scroll-reveal box left"><li>Karam Produce</li></div>
-            <div class="scroll-reveal box left"><li>Lisa Lemieux</li></div>
-            <div class="scroll-reveal box left"><li>Indium Corporation</li></div>
-            <div class="scroll-reveal box left"><li>Macartney Family Foundation</li></div>
-            <div class="scroll-reveal box left"><li>Oneida County</li></div>
-            <div class="scroll-reveal box left"><li>Sam Braverman</li></div>
+            <div className="scroll-reveal box left"><li>American Red Cross</li></div>
+            <div className="scroll-reveal box left"><li>Annie's Fund</li></div>
+            <div className="scroll-reveal box left"><li>Church of Our Lady of Lourdes</li></div>
+            <div className="scroll-reveal box left"><li>CNY Arts</li></div>
+            <div className="scroll-reveal box left"><li>Community Foundation of Herkimer and Oneida Counties</li></div>
+            <div className="scroll-reveal box left"><li>Daniel Barden Mudfest</li></div>
+            <div className="scroll-reveal box left"><li>Fort Stanwix National Monument</li></div>
+            <div className="scroll-reveal box left"><li>Fr. Joe Salerno</li></div>
+            <div className="scroll-reveal box left"><li>Jennifer Arlin</li></div>
+            <div className="scroll-reveal box left"><li>John Ben Snow Foundation</li></div>
+            <div className="scroll-reveal box left"><li>Judy Olney</li></div>
+            <div className="scroll-reveal box left"><li>Karam Produce</li></div>
+            <div className="scroll-reveal box left"><li>Lisa Lemieux</li></div>
+            <div className="scroll-reveal box left"><li>Indium Corporation</li></div>
+            <div className="scroll-reveal box left"><li>Macartney Family Foundation</li></div>
+            <div className="scroll-reveal box left"><li>Oneida County</li></div>
+            <div className="scroll-reveal box left"><li>Sam Braverman</li></div>
             <br/>
-            <div class="scroll-reveal box left"><p>And many other generous individuals throughout our region</p></div>
+            <div className="scroll-reveal box left"><p>And many other generous individuals throughout our region</p></div>
         </div>
     </div>
     <br/>

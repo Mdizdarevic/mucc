@@ -56,7 +56,7 @@ const Overview = () => {
         </div>
     </div>
     <div className='container' id='overview-txt'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p> For more than 200 years, Utica has had a rich 
                 tradition of welcoming immigrants and refugees 
                 into our city and incorporating their culture 
@@ -85,7 +85,7 @@ const Overview = () => {
         <div className="row">
             <div id='col-left' className="col-lg-7">
             <br/><br/>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <img id='ourmission-img' src="/assets/ourmission.png"/>
                 </div>
             </div>
@@ -95,7 +95,7 @@ const Overview = () => {
                     <p id='our-mission-blue-line'></p>
                 </div>
                 <div id='ourmission-txt-body'>
-                    <div class="scroll-reveal box right">
+                    <div className="scroll-reveal box right">
                         <p id='ourmission-txt'>The Midtown Utica Community Center (MUCC) 
                             is an inclusive multicultural and refugee-friendly 
                             space in Utica, New York. 

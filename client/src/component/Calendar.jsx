@@ -19,16 +19,16 @@ const Calendar = () => {
                     </h3>
                     <br/>
             </div>
-            <div class="holder">
-                <div class="switch">
-                    <input id="optSwitch" type="checkbox" class="switch-toggle"/>
-                    <label for="optSwitch" class="switch-label" switch-on="Activities" switch-off="General"></label>
-                    <div id="box1" class="box">
+            <div className="holder">
+                <div className="switch">
+                    <input id="optSwitch" type="checkbox" className="switch-toggle"/>
+                    <label for="optSwitch" className="switch-label" switch-on="Activities" switch-off="General"></label>
+                    <div id="box1" className="box">
                         <div id="calendarEmbedWrapper">
                             <iframe id="calendarEmbed" src='https://calendar.google.com/calendar/embed?src=moreno.dizdarevic%40gmail.com&ctz=America%2FNew_York'></iframe>
                         </div>                         
                     </div>
-                    <div id="box2" class="box">
+                    <div id="box2" className="box">
                         <div id="calendarEmbedWrapper">
                             <iframe id="calendarEmbed" src='https://calendar.google.com/calendar/embed?src=dizdarm%40sunypoly.edu&ctz=America%2FNew_York'></iframe>
                         </div>                     

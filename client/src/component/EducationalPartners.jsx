@@ -55,7 +55,7 @@ const EducationalPartners = () => {
             </div>
         </div>
         <div className='container' id='overview-txt'>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p> We currently collaborate with the following 
                     colleges and universities to reach community 
                     members, raise awareness for the community 
@@ -66,7 +66,7 @@ const EducationalPartners = () => {
                 </p>
             </div>
             <div className='educational-links'>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <li>Colgate University</li>
                     <li>Hamilton College</li>
                     <li>Mohawk Valley Community College</li>

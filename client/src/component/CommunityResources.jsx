@@ -55,7 +55,7 @@ const CommunityResources = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>IRISH CULTURAL CENTER</p>
             <p className='scholarships-bio'>Contact: 315-733-4228</p>
             <p className='scholarships-bio'>623 Columbia St, Utica, NY 13502</p>
@@ -63,14 +63,14 @@ const CommunityResources = () => {
     </div>
     <br/> 
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>ITALIAN HERITAGE CLUB</p>
             <p className='scholarships-bio'>Contact: 315-733-6106</p>
         </div>
     </div>
     <br/> 
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>JEWISH COMMUNITY CENTER ASSOCIATION</p>
             <p className='scholarships-bio'>Contact: 315-733-2343</p>
             <p className='scholarships-bio'>2310 Oneida St, Utica, NY 13501</p>
@@ -78,7 +78,7 @@ const CommunityResources = () => {
     </div>
     <br/> 
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>MYANMAR MUSLIM COMMUNITY OF UTICA (DA DA PU SUFI CENTER) INC.</p>
             <p className='scholarships-bio'>Contact: 315-733-2343</p>
             <p className='scholarships-bio'>781 Lansing St, Utica, NY 13501</p>
@@ -86,7 +86,7 @@ const CommunityResources = () => {
     </div>
     <br/> 
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>UTICA MASJID (MUSLIM COMMUNITY ASSOCIATION OF MOHAWK VALLEY)</p>
             <p className='scholarships-bio'>Contact: 315-507-6270</p>
             <p className='scholarships-bio'>1631 Kemble St, Utica NY 13501</p>
@@ -94,7 +94,7 @@ const CommunityResources = () => {
     </div>
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>MOHAWK VALLEY SOMALI BANTU COMMUNITY ASSOCIATION</p>
             <p className='scholarships-bio'>Contact: 315-601-0363</p>
             <p className='scholarships-bio'>615 Elizabeth St, Utica, NY 13501</p>
@@ -102,7 +102,7 @@ const CommunityResources = () => {
     </div>
     <br/>  
      <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>POLISH COMMUNITY CLUB</p>
             <p className='scholarships-bio'>Contact: 315-723-0089</p>
             <p className='scholarships-bio'>810 Columbia St, Utica, NY 13502</p>
@@ -118,7 +118,7 @@ const CommunityResources = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>COMMUNITY HEALTH AND BEHAVIORAL SERVICES (UPSTATE CEREBRAL PALSY)</p>
             <p className='scholarships-bio'>
                 Community Health and Behavioral Services 
@@ -134,7 +134,7 @@ const CommunityResources = () => {
     </div>
     <br/>  
      <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>REGIONAL PRIMARY CARE NETWORK (RPCN)</p>
             <p className='scholarships-bio'>
                 The mission of Mosaic Health is to provide access to
@@ -159,7 +159,7 @@ const CommunityResources = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>COMMUNITY HEALTH AND BEHAVIORAL SERVICES (UPSTATE CEREBRAL PALSY)</p>
             <p className='scholarships-bio'>
                 Community Health and Behavioral Services 
@@ -175,7 +175,7 @@ const CommunityResources = () => {
     </div>
     <br/>  
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>REGIONAL PRIMARY CARE NETWORK (RPCN)</p>
             <p className='scholarships-bio'>
                 The mission of Mosaic Health is to provide access to
@@ -200,7 +200,7 @@ const CommunityResources = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>HISCOCK LEGAL AID SOCIETY</p>
             <p className='scholarships-bio'>
                 The Hiscock Legal Aid Society promotes 
@@ -218,7 +218,7 @@ const CommunityResources = () => {
     </div>
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>THE LEGAL AID SOCIETY OF MID-NEW YORK, INC.</p>
             <p className='scholarships-bio'>
                 The Legal Aid Society of Mid New York, Inc., is 
@@ -245,7 +245,7 @@ const CommunityResources = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>MOHAWK VALLEY RESOURCE CENTER FOR REFUGEES (MVRCR)</p>
             <p className='scholarships-bio'>
                 The Mohawk Valley Resource Center for Refugees 
@@ -264,7 +264,7 @@ const CommunityResources = () => {
     </div>
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>REFUGEES STARTING OVER IN UTICA, NY</p>
             <p className='scholarships-bio'>
                 Starting Over is a project that celebrates 
@@ -279,7 +279,7 @@ const CommunityResources = () => {
     </div>
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>USAHELLO</p>
             <p className='scholarships-bio'>
                 USAHello is a non-profit organization that 
@@ -308,7 +308,7 @@ const CommunityResources = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>MOHAWK VALLEY COMMUNITY ACTION AGENCY (MVCAA)</p>
             <p className='scholarships-bio'>
                 Mohawk Valley Community Action is the frontline resource 
@@ -331,7 +331,7 @@ const CommunityResources = () => {
     </div>
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>ONPOINT FOR COLLEGE</p>
             <p className='scholarships-bio'>
                 On Point for College is a nationally-recognized 
@@ -354,7 +354,7 @@ const CommunityResources = () => {
     </div>
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>THE NEIGHBORHOOD CENTER</p>
             <p className='scholarships-bio'>
                 The Neighborhood Center seeks to enrich the lives
@@ -368,7 +368,7 @@ const CommunityResources = () => {
     </div>  
     <br/>
     <div id='jobs-links' className='container'>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>WOMEN'S EMPLOYMENT AND RESOURCE CENTER (WERC)</p>
             <p className='scholarships-bio'>
                 The Women's Employment & Resource Center provides 

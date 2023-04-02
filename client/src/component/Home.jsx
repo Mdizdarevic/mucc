@@ -73,7 +73,7 @@ const Home = () => {
             <br/>
             <div className="container left" id='whoweare-txt'>
               <br/>
-              <div class="scroll-reveal box left">
+              <div className="scroll-reveal box left">
                 <p> The Midtown Utica Community Center (MUCC) is an inclusive 
                     and multicultural community center in Utica, New York. We 
                     are anti-racist, multilingual, and refugee-friendly. Our 
@@ -92,7 +92,7 @@ const Home = () => {
             </div>
           </div>
           <div className="container col-lg-7">
-            <div class="scroll-reveal box right">
+            <div className="scroll-reveal box right">
               <img className="whoweare-pic" src="/assets/whoweare.png"/>
             </div>         
           </div>
@@ -101,14 +101,14 @@ const Home = () => {
         <div className='container'>
           <div id='whatwedo-body' className="container row">
             <div id='whatwedo-pic-body' className="container col">
-              <div class="scroll-reveal box left">
+              <div className="scroll-reveal box left">
                 <img className="whatwedo-pic" src="/assets/whatwedo.jpeg"/>
               </div>
             </div>
             <div className="col">
               <h1>What We Do</h1>
               <div className='container' id='whatwedo-txt'>
-                <div class="scroll-reveal box right">
+                <div className="scroll-reveal box right">
                   <br/>
                   <p> We facilitate connections between people, resources, 
                       and organizations according to the ever-evolving needs of
@@ -133,7 +133,7 @@ const Home = () => {
                 <div id="testimonal-card" className='card'>
                   <img src="assets/khutest.png" className="card-img-top" alt="Card Image"/>
                   <div className="card-body d-flex flex-column">
-                    <div class="scroll-reveal box left">
+                    <div className="scroll-reveal box left">
                       <blockquote>
                         Each person has a unique story about how MUCC has influenced them. I enjoy hearing how far people have come and their personal experiences growing up with the MUCC community.                  
                       </blockquote>
@@ -146,7 +146,7 @@ const Home = () => {
                 <div id="testimonal-card" className='card'>
                   <img src="assets/ehtest.png" className="card-img-top" alt="Card Image"/>
                   <div className="card-body d-flex flex-column">
-                    <div class="scroll-reveal box left">
+                    <div className="scroll-reveal box left">
                       <blockquote>
                         MUCC is for young people to aspire and develop new talents and socialize to a-fix a future.                    
                       </blockquote>
@@ -159,7 +159,7 @@ const Home = () => {
                 <div id="testimonal-card" className='card'>
                   <img src="assets/ehkatest.png" className="card-img-top" alt="Card Image"/>
                   <div className="card-body d-flex flex-column">
-                    <div class="scroll-reveal box left">
+                    <div className="scroll-reveal box left">
                       <blockquote>
                         MUCCamp was a great experience, and camp food was pretty good compared to other camps I've been to.          
                       </blockquote>
@@ -176,7 +176,7 @@ const Home = () => {
           <div className="container">
             <h1>Get Involved</h1>
             <div id='get-involved-txt'>
-              <div class="scroll-reveal box left">
+              <div className="scroll-reveal box left">
                 <br/>
                 <p> MUCC offers various programs and events every week.
                     Everything is open to the public and free! 
@@ -201,14 +201,14 @@ const Home = () => {
               <h1>Support Us </h1>    
               <div className='row py-5' id='support-btns'>
                 <div id='donate-btn' className='col-lg-6'>
-                  {/* <div class="scroll-reveal box left"> */}
+                  {/* <div className="scroll-reveal box left"> */}
                     <div className='container support-btn-body'>
                       <a href='https://secure.givelively.org/donate/midtown-utica-community-center?ref=ca8545b3-a601-4faf-bbec-1fd561eee2e3'><button type="submit" className="support-btn">Donate</button></a>
                     </div>
                   {/* </div> */}
                 </div>
                 <div id='volunteer-btn' className='col-lg-6'>
-                  {/* <div class="scroll-reveal box right"> */}
+                  {/* <div className="scroll-reveal box right"> */}
                     <div className='container support-btn-body'>
                       <a href='/'><button type="submit" className="support-btn">Volunteer</button></a>
                     </div>

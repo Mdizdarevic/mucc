@@ -55,7 +55,7 @@ const Staff = () => {
             <div id='staff-rows' className='container row'>
                 <div className='col-lg-4'>
                     <div className='staff-cards'>
-                        {/* <div class="scroll-reveal box left"> */}
+                        {/* <div className="scroll-reveal box left"> */}
                             <div>
                             <div id='staff-card' className="card">
                                 <div className="staff-img-body">
@@ -302,31 +302,31 @@ const Staff = () => {
                 <br/>
                 <h1 id="overview-header-txt">Executive Board</h1>
                 <br/>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <div className='executive-names'>
                         <h4 id='overview-executive-txt'>President</h4>
                         <h5>Kathyrn Stam</h5>
                     </div>
                 </div>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <div className='executive-names'>
                         <h4 id='overview-executive-txt'>Vice President</h4>
                         <h5>Michelle Dawn Laguerre</h5>
                     </div>
                 </div>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <div className='executive-names'>
                         <h4 id='overview-executive-txt'>Secretary</h4>
                         <h5>Rebecca Weldon</h5>
                     </div>
                 </div>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <div className='executive-names'>
                         <h4 id='overview-executive-txt'>Treasurer</h4>
                         <h5>Ben Gaetano</h5>
                     </div>
                 </div>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <div className='executive-names'>
                         <h4 id='overview-executive-txt'>Members</h4>
                         <h5>Olivia Paul</h5>
@@ -337,7 +337,7 @@ const Staff = () => {
                         <h5>Mubarak Hakeem Arabi</h5>
                     </div>
                 </div>
-                <div class="scroll-reveal box left">
+                <div className="scroll-reveal box left">
                     <div className='executive-names'>
                         <h4 id='overview-executive-txt'>Honorary Board Member and Advisor</h4>
                         <h5>Chris Sunderlin</h5>

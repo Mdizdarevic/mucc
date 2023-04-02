@@ -55,7 +55,7 @@ const Jobs = () => {
         </div>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>RADAR APPRENTICESHIP TRAINING</p>
                 <p className='jobs-bio'>
                     The Regional Apprenticeship Development &
@@ -70,7 +70,7 @@ const Jobs = () => {
                     at Working Solutions.
                 </p>
             </div>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <br/>
                 <div id='radar-pic-body' className="col">
                     <img className="radar-pic" src="/assets/RADAR_Job_Seeker_Flyer.jpg"/>
@@ -80,7 +80,7 @@ const Jobs = () => {
         <br/>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>LABORER- INSTRUCTIONAL SUPPORT SERVICES (SCIENCE CENTER +)</p>
                 <p className='jobs-bio'>
                     This position is responsible for assisting in 
@@ -98,7 +98,7 @@ const Jobs = () => {
         <br/>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>LABORER- TECHNOLOGY REPAIR</p>
                 <p className='jobs-bio'>
                     This position is responsible for cleaning, 
@@ -119,7 +119,7 @@ const Jobs = () => {
         </div>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>ONEIDA COUNTY COLLEGE CORPS PRELIMINARY INTERNSHIP</p>
                 <p className='jobs-bio'>
                     Internship opportunity offered through the 
@@ -137,7 +137,7 @@ const Jobs = () => {
         <br/>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>MUNSON WILLIAMS PROCTOR ARTS INSTITUTE SUMMER 2022 DIVERSITY INTERNSHIP</p>
                 <p className='jobs-bio'>
                     The MWPAI is offering a paid internship
@@ -149,7 +149,7 @@ const Jobs = () => {
         <br/>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>MVCC CAMP COUNSELOR FOR COLLEGE AND CAREERS CENTER</p>
                 <p className='jobs-bio'>
                     MVCC is looking for someone to work as
@@ -163,7 +163,7 @@ const Jobs = () => {
         <br/>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>WHITE HOUSE INTERNSHIP PROGRAM</p>
                 <p className='jobs-bio'>
                     The White House Internship Program is a 
@@ -190,7 +190,7 @@ const Jobs = () => {
         <br/>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>PARALLEL NETWORKS INTERNSHIP</p>
                 <p className='jobs-bio'>
                     PN is seeking program and communications interns
@@ -235,7 +235,7 @@ const Jobs = () => {
         </div>
         <div id='jobs-links' className='container'>
             <br/>
-            <div class="scroll-reveal box left">
+            <div className="scroll-reveal box left">
                 <p className='jobs-title'>LEVITT AMP SUMMER INTERNSHIP</p>
                 <p className='jobs-bio'>
                     Five local high schools and/or college students

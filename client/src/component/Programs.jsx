@@ -233,7 +233,7 @@ const Programs = () => {
                                 </div>
                             </div>
                             <div id='tutoring-txt'>
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <p> Many refugees struggle with succeeding at academic work because most of 
                                         them are not native English speakers and many of them did not have 
                                         high-quality schooling in the refugee camps where they used to live. 
@@ -245,7 +245,7 @@ const Programs = () => {
                                         are facing, please contact us by sending an email to midtownutica@gmail.com. 
                                     </p>
                                 </div>
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <p> To assist the students of MUCC in their 
                                         academics, students from Hamilton College
                                         come and offer tutoring at MUCC every 
@@ -257,7 +257,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/><br/>
                             <div id='tutoring-pic-body'>
-                                <div class="scroll-reveal box right">
+                                <div className="scroll-reveal box right">
                                     <img className="tutoring-pic" src="/assets/tutoring.png"/>
                                 </div>
                             </div>
@@ -273,7 +273,7 @@ const Programs = () => {
                                 </div>
                             </div>
                             <div id='muccbots-txt'>
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <p> MUCC offers a robotics team for youth 
                                         interested in STEM. Our team has competed 
                                         in several competitions throughout Upstate 
@@ -287,7 +287,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/>
                             <div id='muccbots-pic-body'>
-                                <div class="scroll-reveal box right">
+                                <div className="scroll-reveal box right">
                                     <img className="muccbots-pic" src="/assets/muccbots.png"/>
                                 </div>
                             </div>
@@ -315,7 +315,7 @@ const Programs = () => {
                         </div>
                     </div>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> Arts and culture are at the heart of what we do at MUCC. We promote dance, music, storytelling, theater, traditional dress, language acquisition, cultural festivals and practices. Cultural traditions also include jewelry making, henna, and other methods of beautification. We provide the space and supervision for community members to practice their crafts and prepare to share them with a wider audience. We help various ethnic groups organize New Years and other cultural festivals. We encourage community members to share their experiences and stories, and we connect them with opportunities to do so publicly. We seek outside grants and other resources to help support refugee and immigrant artists. Finally, we support and organize about 25-30 cultural events beyond the walls of MUCC, at music festivals, museums, schools, and universities.
                             </p>
                         </div>
@@ -324,7 +324,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/>
                             <div id='tutoring-pic-body' className="col">
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <img className="tutoring-pic" src="/assets/dancinggirl.png"/>
                                 </div>
                             </div>
@@ -338,7 +338,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/>
                             <div id='arts-pic-body' className="col">
-                                <div class="scroll-reveal box right">
+                                <div className="scroll-reveal box right">
                                     <img className="arts-pic" src="/assets/kidsattable.png"/>
                                 </div>
                             </div>
@@ -348,7 +348,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/>
                             <div id='arts-pic-body-2' className="col">
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <img className="arts-pic-2" src="/assets/redhoodieguy.png"/>
                                 </div>
                             </div>
@@ -378,25 +378,25 @@ const Programs = () => {
                         </div>
                     </div>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> The community center is interested in promoting 
                                 health and wellness for all of our community members, 
                                 so we have initiated the following activities:
                             </p>
                         </div>
                         <div className='programs-links'>
-                            <div class="scroll-reveal box left"><li>Basketball program</li></div>
-                            <div class="scroll-reveal box left"><li>Curling Team</li></div>
-                            <div class="scroll-reveal box left"><li>Gardening in raised beds and leading prevention efforts</li></div>
-                            <div class="scroll-reveal box left"><li>Healthy food preparation</li></div>
-                            <div class="scroll-reveal box left"><li>Partnerships with two nearby organic gardens that provide donated vegetable shares</li></div>
-                            <div class="scroll-reveal box left"><li>Running team</li></div>
-                            <div class="scroll-reveal box left"><li>Traditional and contemporary dance lessons and practices</li></div>
-                            <div class="scroll-reveal box left"><li>Volleyball program</li></div>
-                            <div class="scroll-reveal box left"><li>Yoga-stretching and breathing</li></div>
+                            <div className="scroll-reveal box left"><li>Basketball program</li></div>
+                            <div className="scroll-reveal box left"><li>Curling Team</li></div>
+                            <div className="scroll-reveal box left"><li>Gardening in raised beds and leading prevention efforts</li></div>
+                            <div className="scroll-reveal box left"><li>Healthy food preparation</li></div>
+                            <div className="scroll-reveal box left"><li>Partnerships with two nearby organic gardens that provide donated vegetable shares</li></div>
+                            <div className="scroll-reveal box left"><li>Running team</li></div>
+                            <div className="scroll-reveal box left"><li>Traditional and contemporary dance lessons and practices</li></div>
+                            <div className="scroll-reveal box left"><li>Volleyball program</li></div>
+                            <div className="scroll-reveal box left"><li>Yoga-stretching and breathing</li></div>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left"><p>Check out our calendar for dates and times!</p></div>
+                        <div className="scroll-reveal box left"><p>Check out our calendar for dates and times!</p></div>
                     </div>
                 </div>
             </div>
@@ -421,37 +421,37 @@ const Programs = () => {
                     </div>
                     <br/><br/>
                     <div id='muccamp-pic-body'>
-                        <div class="scroll-reveal box bottom">
+                        <div className="scroll-reveal box bottom">
                             <img className="muccamp-pic" src="/assets/muccamp.png"/>
                         </div>
                     </div>
                     <br/><br/>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> MUCCamp is a week-long summer camp experience for 
                                 the MUCC community to let loose and experience the 
                                 Adirondacks with hiking, canoeing, swimming, bonfires, 
                                 and much more.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> Students must be high school age, vaccinated against covid-19,
                                 and spots are on a first-come-first-served basis. Campers must 
                                 fill out the application, the health form, and their parents 
                                 need to review the info sheet.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>Let us know through our form if you are interested in joining 
                                 MUCCamp 2022. Health forms are also needed and can be found here.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>Students must email or drop off immunization and/or medication 
                                 list to info@midtownutica.org or to 43 Scott St.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>MUCC will have two days before camp where campers are required 
                                 to come to MUCC to get covid tested. The dates are Friday 
                                 7/29 at 4 pm and Saturday 7/30 at 10 am. If you cannot fill 
@@ -459,25 +459,25 @@ const Programs = () => {
                                 our office hours to fill out the forms in person.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>FORMS ARE DUE BY JULY 22ND</p>
                             <p>Attached is a packing list for MUCCamp.</p>
                         </div>
                         <br/><br/>
                         <div id='muccamp-pic-body'>
-                            <div class="scroll-reveal box bottom">
+                            <div className="scroll-reveal box bottom">
                                 <img className="muccamp-pic" src="/assets/packing-list.jpeg"/>
                             </div>
                         </div>
                         <br/><br/>
                         <div id='muccamp-pic-body'>
-                            <div class="scroll-reveal box bottom">
+                            <div className="scroll-reveal box bottom">
                                 <img className="muccamp-pic" src="/assets/muccamp-info.jpeg"/>
                             </div>
                         </div>
                         <br/><br/>
                         <div id='muccamp-pic-body'>
-                            <div class="scroll-reveal box bottom">
+                            <div className="scroll-reveal box bottom">
                                 <img className="muccamp-pic" src="/assets/muccamp-info-2.jpeg"/>
                             </div>
                         </div>
@@ -504,7 +504,7 @@ const Programs = () => {
                         </div>
                     </div>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> For a successful SYEP application, 
                                 all students must complete & obtain 
                                 an application.
@@ -514,7 +514,7 @@ const Programs = () => {
                             </p>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p id='programs-blue-txt'>THE APPLICATION MUST BE RETURNED TO:</p>
                             <p>
                                 Oneida County Summer Youth Employment 
@@ -527,23 +527,23 @@ const Programs = () => {
                             </p>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p id='programs-blue-txt'>ITEMS TO BRING:</p>
                         </div>
                         <div className='programs-links'>
-                            <div class="scroll-reveal box left"><li>Working card</li></div>
-                            <div class="scroll-reveal box left"><li>To get one, you must complete a working paper application and get a copy of your physical. After, you must bring that paperwork to your school nurse to get a working card.</li></div>
-                            <div class="scroll-reveal box left"><li>*If you are 13 & 14, you must have a specific working card for this specific age group.</li></div>
-                            <div class="scroll-reveal box left"><li>*If you are 15 & 16, you must have a specific working card for this specific age group.</li></div>
-                            <div class="scroll-reveal box left"><li>*Once you turn 18, you do not need a working card anymore.</li></div>
-                            <div class="scroll-reveal box left"><li>A parent or guardian</li></div>
-                            <div class="scroll-reveal box left"><li>Birth certificate or passport or permanent residence card or citizenship certificate</li></div>
-                            <div class="scroll-reveal box left"><li>Social Security Card</li></div>
-                            <div class="scroll-reveal box left"><li>Report Card or Driver's License</li></div>
-                            <div class="scroll-reveal box left"><li>Benefit/Food Stamp Card or parents' pay stubs</li></div>
+                            <div className="scroll-reveal box left"><li>Working card</li></div>
+                            <div className="scroll-reveal box left"><li>To get one, you must complete a working paper application and get a copy of your physical. After, you must bring that paperwork to your school nurse to get a working card.</li></div>
+                            <div className="scroll-reveal box left"><li>*If you are 13 & 14, you must have a specific working card for this specific age group.</li></div>
+                            <div className="scroll-reveal box left"><li>*If you are 15 & 16, you must have a specific working card for this specific age group.</li></div>
+                            <div className="scroll-reveal box left"><li>*Once you turn 18, you do not need a working card anymore.</li></div>
+                            <div className="scroll-reveal box left"><li>A parent or guardian</li></div>
+                            <div className="scroll-reveal box left"><li>Birth certificate or passport or permanent residence card or citizenship certificate</li></div>
+                            <div className="scroll-reveal box left"><li>Social Security Card</li></div>
+                            <div className="scroll-reveal box left"><li>Report Card or Driver's License</li></div>
+                            <div className="scroll-reveal box left"><li>Benefit/Food Stamp Card or parents' pay stubs</li></div>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left"><p id='programs-blue-txt'>FOR ANY QUESTIONS OR CONCERNS, PLEASE CONTACT HTOOKHU426@GMAIL.COM OR INFO@MIDTOWNUTICA.ORG</p></div>
+                        <div className="scroll-reveal box left"><p id='programs-blue-txt'>FOR ANY QUESTIONS OR CONCERNS, PLEASE CONTACT HTOOKHU426@GMAIL.COM OR INFO@MIDTOWNUTICA.ORG</p></div>
                     </div>
                 </div>
             </div>
@@ -572,7 +572,7 @@ const Programs = () => {
                                 </div>
                             </div>
                             <div id='tutoring-txt'>
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <p> Many refugees struggle with succeeding at academic work because most of 
                                         them are not native English speakers and many of them did not have 
                                         high-quality schooling in the refugee camps where they used to live. 
@@ -584,7 +584,7 @@ const Programs = () => {
                                         are facing, please contact us by sending an email to midtownutica@gmail.com. 
                                     </p>
                                 </div>
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <p> To assist the students of MUCC in their 
                                         academics, students from Hamilton College
                                         come and offer tutoring at MUCC every 
@@ -596,7 +596,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/><br/>
                             <div id='tutoring-pic-body' className="col">
-                                <div class="scroll-reveal box right">
+                                <div className="scroll-reveal box right">
                                     <img className="tutoring-pic" src="/assets/tutoring.png"/>
                                 </div>
                             </div>
@@ -612,7 +612,7 @@ const Programs = () => {
                                 </div>
                             </div>
                             <div id='muccbots-txt'>
-                                <div class="scroll-reveal box left">
+                                <div className="scroll-reveal box left">
                                     <p> MUCC offers a robotics team for youth 
                                         interested in STEM. Our team has competed 
                                         in several competitions throughout Upstate 
@@ -626,7 +626,7 @@ const Programs = () => {
                         <div className='col'>
                             <br/>
                             <div id='muccbots-pic-body'>
-                                <div class="scroll-reveal box right">
+                                <div className="scroll-reveal box right">
                                     <img className="muccbots-pic" src="/assets/muccbots.png"/>
                                 </div>
                             </div>
@@ -654,7 +654,7 @@ const Programs = () => {
                         </div>
                     </div>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> Arts and culture are at the heart of what we do at MUCC. We promote dance, music, storytelling, theater, traditional dress, language acquisition, cultural festivals and practices. Cultural traditions also include jewelry making, henna, and other methods of beautification. We provide the space and supervision for community members to practice their crafts and prepare to share them with a wider audience. We help various ethnic groups organize New Years and other cultural festivals. We encourage community members to share their experiences and stories, and we connect them with opportunities to do so publicly. We seek outside grants and other resources to help support refugee and immigrant artists. Finally, we support and organize about 25-30 cultural events beyond the walls of MUCC, at music festivals, museums, schools, and universities.
                             </p>
                         </div>
@@ -662,17 +662,17 @@ const Programs = () => {
                     <br/>
                     <div className='mobile-screen-arts-pic'>
                         <div id='kidsattable-pic-body' className="col">
-                            <div class="scroll-reveal box left">
+                            <div className="scroll-reveal box left">
                                 <img className="kidsattable-pic" src="/assets/kidsattable.png"/>
                             </div>
                         </div>
                         <div id='kidsattable-pic-body' className="col">
-                            <div class="scroll-reveal box left">
+                            <div className="scroll-reveal box left">
                                 <img className="kidsattable-pic" src="/assets/dancinggirl.png"/>
                             </div>
                         </div>
                         <div id='redhoodieguy-pic-body' className="col">
-                            <div class="scroll-reveal box left">
+                            <div className="scroll-reveal box left">
                                 <img className="redhoodieguy-pic" src="/assets/redhoodieguy.png"/>
                             </div>
                         </div>
@@ -699,25 +699,25 @@ const Programs = () => {
                         </div>
                     </div>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> The community center is interested in promoting 
                                 health and wellness for all of our community members, 
                                 so we have initiated the following activities:
                             </p>
                         </div>
                         <div className='programs-links'>
-                            <div class="scroll-reveal box left"><li>Basketball program</li></div>
-                            <div class="scroll-reveal box left"><li>Curling Team</li></div>
-                            <div class="scroll-reveal box left"><li>Gardening in raised beds and leading prevention efforts</li></div>
-                            <div class="scroll-reveal box left"><li>Healthy food preparation</li></div>
-                            <div class="scroll-reveal box left"><li>Partnerships with two nearby organic gardens that provide donated vegetable shares</li></div>
-                            <div class="scroll-reveal box left"><li>Running team</li></div>
-                            <div class="scroll-reveal box left"><li>Traditional and contemporary dance lessons and practices</li></div>
-                            <div class="scroll-reveal box left"><li>Volleyball program</li></div>
-                            <div class="scroll-reveal box left"><li>Yoga-stretching and breathing</li></div>
+                            <div className="scroll-reveal box left"><li>Basketball program</li></div>
+                            <div className="scroll-reveal box left"><li>Curling Team</li></div>
+                            <div className="scroll-reveal box left"><li>Gardening in raised beds and leading prevention efforts</li></div>
+                            <div className="scroll-reveal box left"><li>Healthy food preparation</li></div>
+                            <div className="scroll-reveal box left"><li>Partnerships with two nearby organic gardens that provide donated vegetable shares</li></div>
+                            <div className="scroll-reveal box left"><li>Running team</li></div>
+                            <div className="scroll-reveal box left"><li>Traditional and contemporary dance lessons and practices</li></div>
+                            <div className="scroll-reveal box left"><li>Volleyball program</li></div>
+                            <div className="scroll-reveal box left"><li>Yoga-stretching and breathing</li></div>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left"><p>Check out our calendar for dates and times!</p></div>
+                        <div className="scroll-reveal box left"><p>Check out our calendar for dates and times!</p></div>
                     </div>
                 </div>
             </div>
@@ -742,37 +742,37 @@ const Programs = () => {
                     </div>
                     <br/><br/>
                     <div id='muccamp-pic-body'>
-                        <div class="scroll-reveal box bottom">
+                        <div className="scroll-reveal box bottom">
                             <img className="muccamp-pic" src="/assets/muccamp.png"/>
                         </div>
                     </div>
                     <br/><br/>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> MUCCamp is a week-long summer camp experience for 
                                 the MUCC community to let loose and experience the 
                                 Adirondacks with hiking, canoeing, swimming, bonfires, 
                                 and much more.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> Students must be high school age, vaccinated against covid-19,
                                 and spots are on a first-come-first-served basis. Campers must 
                                 fill out the application, the health form, and their parents 
                                 need to review the info sheet.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>Let us know through our form if you are interested in joining 
                                 MUCCamp 2022. Health forms are also needed and can be found here.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>Students must email or drop off immunization and/or medication 
                                 list to info@midtownutica.org or to 43 Scott St.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>MUCC will have two days before camp where campers are required 
                                 to come to MUCC to get covid tested. The dates are Friday 
                                 7/29 at 4 pm and Saturday 7/30 at 10 am. If you cannot fill 
@@ -780,22 +780,22 @@ const Programs = () => {
                                 our office hours to fill out the forms in person.
                             </p>
                         </div>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p>FORMS ARE DUE BY JULY 22ND</p>
                             <p>Attached is a packing list for MUCCamp.</p>
                         </div>
                         <div id='muccamp-pic-body'>
-                            <div class="scroll-reveal box bottom">
+                            <div className="scroll-reveal box bottom">
                                 <img className="muccamp-pic" src="/assets/packing-list.jpeg"/>
                             </div>
                         </div>
                         <div id='muccamp-pic-body'>
-                            <div class="scroll-reveal box bottom">
+                            <div className="scroll-reveal box bottom">
                                 <img className="muccamp-pic" src="/assets/muccamp-info.jpeg"/>
                             </div>
                         </div>
                         <div id='muccamp-pic-body'>
-                            <div class="scroll-reveal box bottom">
+                            <div className="scroll-reveal box bottom">
                                 <img className="muccamp-pic" src="/assets/muccamp-info-2.jpeg"/>
                             </div>
                         </div>
@@ -822,7 +822,7 @@ const Programs = () => {
                         </div>
                     </div>
                     <div  id='overview-txt'>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p> For a successful SYEP application, 
                                 all students must complete & obtain 
                                 an application.
@@ -832,7 +832,7 @@ const Programs = () => {
                             </p>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p id='programs-blue-txt'>THE APPLICATION MUST BE RETURNED TO:</p>
                             <p>
                                 Oneida County Summer Youth Employment 
@@ -845,23 +845,23 @@ const Programs = () => {
                             </p>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left">
+                        <div className="scroll-reveal box left">
                             <p id='programs-blue-txt'>ITEMS TO BRING:</p>
                         </div>
                         <div className='programs-links'>
-                            <div class="scroll-reveal box left"><li>Working card</li></div>
-                            <div class="scroll-reveal box left"><li>To get one, you must complete a working paper application and get a copy of your physical. After, you must bring that paperwork to your school nurse to get a working card.</li></div>
-                            <div class="scroll-reveal box left"><li>*If you are 13 & 14, you must have a specific working card for this specific age group.</li></div>
-                            <div class="scroll-reveal box left"><li>*If you are 15 & 16, you must have a specific working card for this specific age group.</li></div>
-                            <div class="scroll-reveal box left"><li>*Once you turn 18, you do not need a working card anymore.</li></div>
-                            <div class="scroll-reveal box left"><li>A parent or guardian</li></div>
-                            <div class="scroll-reveal box left"><li>Birth certificate or passport or permanent residence card or citizenship certificate</li></div>
-                            <div class="scroll-reveal box left"><li>Social Security Card</li></div>
-                            <div class="scroll-reveal box left"><li>Report Card or Driver's License</li></div>
-                            <div class="scroll-reveal box left"><li>Benefit/Food Stamp Card or parents' pay stubs</li></div>
+                            <div className="scroll-reveal box left"><li>Working card</li></div>
+                            <div className="scroll-reveal box left"><li>To get one, you must complete a working paper application and get a copy of your physical. After, you must bring that paperwork to your school nurse to get a working card.</li></div>
+                            <div className="scroll-reveal box left"><li>*If you are 13 & 14, you must have a specific working card for this specific age group.</li></div>
+                            <div className="scroll-reveal box left"><li>*If you are 15 & 16, you must have a specific working card for this specific age group.</li></div>
+                            <div className="scroll-reveal box left"><li>*Once you turn 18, you do not need a working card anymore.</li></div>
+                            <div className="scroll-reveal box left"><li>A parent or guardian</li></div>
+                            <div className="scroll-reveal box left"><li>Birth certificate or passport or permanent residence card or citizenship certificate</li></div>
+                            <div className="scroll-reveal box left"><li>Social Security Card</li></div>
+                            <div className="scroll-reveal box left"><li>Report Card or Driver's License</li></div>
+                            <div className="scroll-reveal box left"><li>Benefit/Food Stamp Card or parents' pay stubs</li></div>
                         </div>
                         <br/>
-                        <div class="scroll-reveal box left"><p id='programs-blue-txt'>FOR ANY QUESTIONS OR CONCERNS, PLEASE CONTACT HTOOKHU426@GMAIL.COM OR INFO@MIDTOWNUTICA.ORG</p></div>
+                        <div className="scroll-reveal box left"><p id='programs-blue-txt'>FOR ANY QUESTIONS OR CONCERNS, PLEASE CONTACT HTOOKHU426@GMAIL.COM OR INFO@MIDTOWNUTICA.ORG</p></div>
                     </div>
                 </div>
             </div>

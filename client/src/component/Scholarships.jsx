@@ -55,7 +55,7 @@ const Scholarships = () => {
     </div>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>DOLLAR FOR SCHOLARS</p>
             <p className='scholarships-bio'>
                 As the nation's most extensive grassroots 
@@ -73,7 +73,7 @@ const Scholarships = () => {
     <br/> 
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>CONNOR ARTHUR LYNSKEY MEMORIAL SCHOLARSHIP</p>
             <p className='scholarships-bio'>
                 The scholarship fund was established in memory of Connor, a 2017 
@@ -102,7 +102,7 @@ const Scholarships = () => {
     <br/> 
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>BIKASH & KUMARI REGMI SCHOLARSHIP</p>
             <p className='scholarships-bio'>
                 Bikash & Kumari Regmi scholarship is created to 
@@ -159,7 +159,7 @@ const Scholarships = () => {
     <br/> 
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>KJ JAMES MEMORIAL SCHOLARSHIP</p>
             <p className='scholarships-bio'>
                 The New York State Blues Festival is pleased 
@@ -187,7 +187,7 @@ const Scholarships = () => {
     <br/>
     <div id='jobs-links' className='container'>
         <br/>
-        <div class="scroll-reveal box left">
+        <div className="scroll-reveal box left">
             <p className='jobs-title'>NYS HIGHER EDUCATION</p>
             <p className='scholarships-bio'>
                 The state of New York offers various scholarships

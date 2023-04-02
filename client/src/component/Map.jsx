@@ -65,7 +65,7 @@ const Map = () => {
                 <br/>
             </div>
             <div className='container' id='community-txt'>
-                <div id='map-header-txt' class="scroll-reveal box left">
+                <div id='map-header-txt' className="scroll-reveal box left">
                     <h3> Learn more about all the places our constituents arrived from!
                     </h3>
                     <br/>
